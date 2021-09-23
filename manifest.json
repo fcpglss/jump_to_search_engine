@@ -1,10 +1,10 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
+	"id": "jump_to_search_engine",
+	"name": "jump_to_search_engine",
 	"version": "1.0.1",
 	"minAppVersion": "0.9.12",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md/about",
-	"isDesktopOnly": false
+	"description": "打开浏览器搜索搜索框里面的内容，alt+q 谷歌 alt+w 百度",
+	"author": "hsp",
+	"authorUrl": "https://github.com/fcpglss/jump_to_search_engine",
+	"isDesktopOnly": true
 }
